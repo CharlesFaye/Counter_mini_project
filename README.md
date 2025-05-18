@@ -10,7 +10,7 @@ This is a simple Counter App built with HTML, TailwindCSS, and JavaScript. The a
 
 ## Demo
 
-👉 [Live Demo](https://your-demo-link.com)  
+👉 [Live Demo](https://counter-mini-project-dun.vercel.app/)  
 
 
 ## Installation
